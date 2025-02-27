@@ -1,0 +1,8 @@
+echo "*/" > .gitignore
+echo "*.docx" >> .gitignore
+echo "*.pdf" >> .gitignore
+echo "nextjs-Q2/" >> .gitignore
+echo "personal pictures/" >> .gitignore
+echo "softwares/" >> .gitignore
+echo "*.dat" >> .gitignore
+echo "$RECYCLE.BIN/" >> .gitignore
