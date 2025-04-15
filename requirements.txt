@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+openpyxl  # (Agar Excel ka kaam hai to rakhein)
+pyttsx3  # (Agar text-to-speech use ho raha hai to rakhein)
+Flask  # (Agar API ya backend ka kaam hai to rakhein)
