@@ -1,0 +1,5 @@
+[tool.uv.dependencies]
+chainlit = "*"
+openai-agents = "*"
+pypdf = "*"
+python-dotenv = "*"
