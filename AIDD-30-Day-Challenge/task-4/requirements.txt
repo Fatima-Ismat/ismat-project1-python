@@ -1,6 +1,0 @@
-chainlit
-openai
-python-dotenv
-PyPDF2
-openai-agents
-pypdf
